@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/css/style.css=UTF-8
+encoding//WebContent/workdetail.jsp=UTF-8
+encoding//config/config.properties=UTF-8
+encoding//config/log4j.properties=UTF-8
+encoding//config/messageResource_zh_cn.properties=UTF-8
+encoding//dat/db.json=UTF-8
+encoding//src/com/nrib/servlet/LoginServlet.java=UTF-8
+encoding//src/com/nrib/servlet/UploadFile.java=UTF-8
+encoding/<project>=UTF-8

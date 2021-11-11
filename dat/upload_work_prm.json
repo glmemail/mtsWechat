@@ -1,0 +1,13 @@
+{
+  "ESBREQ":
+  {
+    "DATA":
+    {
+      "SystemName":"SYSTEMNAME",
+      "Title":"TITLE",
+      "Content":"CONTENT",
+      "Attachment":"ATTACHMENT",
+      "WeChatId":"WECHATID"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "ESBREQ":{
+        "DATA":{
+            "xWechatId":"WECHATID",
+            "xStatus":"STATUS"
+        }
+    }
+}

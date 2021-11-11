@@ -1,0 +1,10 @@
+{
+  "ESBREQ":
+  {
+    "DATA":
+    {
+      "xInsertNo":"INSERTNO",
+      "xWeChatId":"WECHATID"
+    }
+  }
+}
